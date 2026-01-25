@@ -1,4 +1,4 @@
-![logo](https://files.catbox.moe/0s0828.jpg)
+![logo](https://files.catbox.moe/oclpdi.jpg)
 
 <h1 align="center">Hi 👋, I'm AiiSima</h1>
 <h3 align="center">Seorang insinyur perangkat lunaki</h3>
