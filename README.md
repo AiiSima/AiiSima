@@ -33,21 +33,21 @@
   <a href="https://t.me/AiiSimaRajaIblis">
     <img
       src="https://k.top4top.io/s_3677aio4c0.png"
-      width="50"
+      width="40"
       alt="Telegram"
     />
   </a>
   <a href="https://www.youtube.com/@simaV1-9">
     <img
       src="https://h.top4top.io/s_3677l75520.png"
-      width="50"
+      width="40"
       alt="YouTube"
     />
   </a>
   <a href="https://aiisimaflowers.vercel.app">
     <img
       src="https://a.top4top.io/s_3677zgueq0.png"
-      width="50"
+      width="40"
       alt="Website"
     />
   </a>
