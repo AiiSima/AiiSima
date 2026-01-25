@@ -1,4 +1,4 @@
-![logo](https://files.catbox.moe/oclpdi.jpg)
+![logo](https://files.catbox.moe/bn9yyw.jpg)
 
 <h1 align="center">Hi 👋, I'm AiiSima</h1>
 <h3 align="center">Seorang insinyur perangkat lunaki</h3>
@@ -23,46 +23,25 @@
 
 - 👨‍💻 Semua proyek saya tersedia di  
   👉 **[Website](https://aiisimaflowers.vercel.app)**
-- ⚡ **Alt**: menyendiri bukanlah kelemahan, melainkan panggung bagi pikiran-pikiran liar yang tak terkungkung, tempat keheningan melahirkan kebijaksanaan yang tak ternilai.
+- ⚡ **menyendiri bukanlah kelemahan, melainkan panggung bagi pikiran-pikiran liar yang tak terkungkung, tempat keheningan melahirkan kebijaksanaan yang tak ternilai.***
 
 
 ---
 
-### 🤝 Connect with me
+## 🤝 Terhubunglah denganku
 
 <p align="left">
-
-  <a href="https://t.me/AiiSimaRajaIblis" target="_blank">
-    <img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg"
-      alt="Telegram"
-      height="30"
-      width="40"
-    />
+  <a href="https://t.me/AiiSimaRajaIblis">
+    <img src="https://k.top4top.io/s_3677aio4c0.png"/>
   </a>
-
-  <a href="https://www.youtube.com/@simaV1-9" target="_blank">
-    <img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
-      alt="YouTube"
-      height="30"
-      width="40"
-    />
+  <a href="https://www.youtube.com/@simaV1-9">
+    <img src="https://h.top4top.io/s_3677l75520.png"/>
   </a>
-
-  <a href="aiisimaflowers.vercel.app" target="_blank">
-    <img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linktree.svg"
-      alt="Linktree"
-      height="30"
-      width="40"
-    />
+  <a href="https://aiisimaflowers.vercel.app">
+    <img src="https://a.top4top.io/s_3677zgueq0.png" alt="Website"/>
   </a>
-
 </p>
+
 
 
 ---
