@@ -1,7 +1,7 @@
 ![logo](https://files.catbox.moe/0s0828.jpg)
 
 <h1 align="center">Hi 👋, I'm AiiSima</h1>
-<h3 align="center">Seorang insinyur perangkat lunak yang bersemangat dari</h3>
+<h3 align="center">Seorang insinyur perangkat lunaki</h3>
 
 <img
   align="right"
@@ -21,9 +21,10 @@
 
 ### 👨‍💻 Tentang Saya
 
-- 👨‍💻 Semua proyek saya tersedia di   
-  👉 **https://aiisimaflowers.vercel.app**
-- ⚡ menyendiri bukanlah kelemahan, melainkan panggung bagi pikiran-pikiran liar yang tak terkungkung, tempat keheningan melahirkan kebijaksanaan yang tak ternilai.**
+- 👨‍💻 Semua proyek saya tersedia di  
+  👉 **[Website](https://aiisimaflowers.vercel.app)**
+- ⚡ **Alt**: menyendiri bukanlah kelemahan, melainkan panggung bagi pikiran-pikiran liar yang tak terkungkung, tempat keheningan melahirkan kebijaksanaan yang tak ternilai.
+
 
 ---
 
